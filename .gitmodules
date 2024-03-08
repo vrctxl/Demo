@@ -1,0 +1,19 @@
+[submodule "Submodules/CommonTXL"]
+	path = Submodules/CommonTXL
+	url = git@github.com:vrctxl/CommonTXL.git
+[submodule "Submodules/AccessTXL"]
+	path = Submodules/AccessTXL
+	url = git@github.com:vrctxl/AccessTXL.git
+[submodule "Submodules/MiscTXL"]
+	path = Submodules/MiscTXL
+	url = git@github.com:vrctxl/MiscTXL.git
+[submodule "Submodules/PlayerAudioTXL"]
+	path = Submodules/PlayerAudioTXL
+	url = git@github.com:vrctxl/PlayerAudioTXL.git
+[submodule "Submodules/VideoTXL"]
+	path = Submodules/VideoTXL
+	url = git@github.com:vrctxl/VideoTXL.git
+	branch = dev
+[submodule "Submodules/PortalTXL"]
+	path = Submodules/PortalTXL
+	url = git@github.com:vrctxl/PortalTXL.git
